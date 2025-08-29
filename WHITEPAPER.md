@@ -2,9 +2,9 @@
 
 **Version:** 1.2  
 **Date:** August 29, 2025  
-**Author:** Simon Kapenda
-**Website:** https://englishcoin.io
-**GitHub Repository:** https://github.com/abba-platforms/English
+**Author:** Simon Kapenda  
+**Website:** [https://englishcoin.io](https://englishcoin.io)  
+**GitHub Repository:** [https://github.com/abba-platforms/English](https://github.com/abba-platforms/English)
 
 ---
 
@@ -63,7 +63,7 @@ $ENGLISH creates a memecoin that’s fun yet sustainable, with community DAO gov
 **Decimals:** 18  
 **Networks:** Ethereum, Binance Smart Chain  
 **Utility:**  
-- Tipping content creators for funny English memes  
+- Tipping content creators  
 - Rewarding community contributions and wordplay  
 - DAO participation and governance decisions  
 **Deflationary Mechanism:** 1–2% burn per transaction
@@ -74,9 +74,9 @@ $ENGLISH creates a memecoin that’s fun yet sustainable, with community DAO gov
 
 | **Allocation**            | **Percentage** |
 |-------------------------- | -------------- |
-| Team / Founder            | 20%             |
-| Liquidity Pool            | 50%             |
-| Airdrops / Community      | 30%             |
+| Team / Founder            | 35%             |
+| Liquidity Pool            | 40%             |
+| Airdrops / Community      | 25%             |
 
 **Transaction Fees:**
 - Burn: 1–2% per transaction (deflationary, fueling hype)
