@@ -47,15 +47,20 @@ Created by **Simon Kapenda**, $ENGLISH combines humor, viral potential, and dece
 
 ## 🛠 Getting Started
 
-# 1. Clone the repository
-git clone https://github.com/abba-platforms/English.git
-cd English
+1. Clone the repository
 
-# 2. Explore the contracts
-All smart contracts are located in contracts/
+    git clone https://github.com/abba-platforms/English.git
+    cd English
 
-# 3. Read the documentation
-Start with WHITEPAPER.md to understand $ENGLISH tokenomics, DAO, and roadmap
+2. Explore the contracts  
+All smart contracts are located in `contracts/`
+
+3. Read the documentation  
+Start with `WHITEPAPER.md` to understand $ENGLISH tokenomics, DAO, and roadmap
+
+---
+
+## 📈 Roadmap, ⚖️ License & 🙏 Creator
 
 ## 📈 Roadmap
 - Launch $ENGLISH token and initial liquidity
@@ -67,17 +72,16 @@ Start with WHITEPAPER.md to understand $ENGLISH tokenomics, DAO, and roadmap
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## 🙏 Creator
-Simon Kapenda
-Creator, $ENGLISH
+Simon Kapenda, $ENGLISH
 
 ---
 
 ## 🔍 Additional Notes
 
--   $ENGLISH is designed to be **fun first, utility second**, making it an approachable memecoin for everyone.
--   Community involvement is **highly encouraged** via the DAO.
--   The tokenomics and deflationary model ensure **long-term sustainability** while maintaining viral meme appeal.
--   All smart contracts are **enterprise-grade and Certik-style audited** for security and reliability.
--   The README, Whitepaper, and Market Analysis documents provide complete **guidance for investors, contributors, and community members**.
+- $ENGLISH is designed to be **fun first, utility second**, making it an approachable memecoin for everyone.
+- Community involvement is **highly encouraged** via the DAO.
+- The tokenomics and deflationary model ensure **long-term sustainability** while maintaining viral meme appeal.
+- All smart contracts are **enterprise-grade and Certik-style audited** for security and reliability.
+- The README, Whitepaper, and Market Analysis documents provide complete **guidance for investors, contributors, and community members**.
 
 ---
