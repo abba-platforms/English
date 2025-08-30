@@ -1,6 +1,6 @@
 # $ENGLISH Memecoin & DAO
 
-![ENGLISH Logo](./branding/englishcoin.jpg)  
+![ENGLISH Logo](./branding/englishcoin.png)  
 
 ## 🚀 Overview
 
