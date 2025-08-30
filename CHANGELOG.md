@@ -4,6 +4,14 @@ This file follows the **“Keep a Changelog”** format (https://keepachangelog.
 
 All notable changes to $ENGLISH MEMECOIN will be documented in this file.
 
+## [1.3] – 2025-08-30
+### Added
+- Updated logo in repository: `englishcoin.png` (replaces `englishcoin.jpg`)  
+
+### Updated
+- README updated to reference `englishcoin.png`  
+- Branding folder (`branding/`) updated with new logo file  
+
 ## [1.2] – 2025-08-29
 ### Added
 - Humorous tagline: "DO YOU SPEAKER AN ENGLISH?"  
