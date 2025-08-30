@@ -6,6 +6,15 @@ All notable changes to $ENGLISH MEMECOIN will be documented in this file.
 
 ## [1.3] – 2025-08-30
 ### Added
+- Updated $ENGLISH MEMECOIN logo: `englishcoin.png` in the branding folder  
+- References in README and documentation updated to reflect new logo file  
+
+### Updated
+- README displays new PNG logo instead of old JPG  
+- Minor formatting improvements in README to enhance visual consistency
+
+## [1.3] – 2025-08-30
+### Added
 - Updated logo in repository: `englishcoin.png` (replaces `englishcoin.jpg`)  
 
 ### Updated
