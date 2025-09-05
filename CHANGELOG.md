@@ -4,6 +4,29 @@ This file follows the **“Keep a Changelog”** format ([https://keepachangelog
 
 All notable changes to $ENGLISH MEMECOIN will be documented in this file.
 
+## [1.5] – 2025-09-05
+
+### Added
+
+-   $ENGLISH token officially deployed on Binance Smart Chain (BSC) Mainnet.
+-   First batch of 10 billion $ENGLISH tokens minted.
+-   Verified contract address added: `0x5aC7E03702f4C5eDa984dB80110e8acd85b6ac42`.
+-   README updated with full deployment details and contract address.
+-   Airdrop announcement drafted for early community distribution of $ENGLISH tokens.
+
+### Updated
+
+-   Repository cleaned: removed `EnglishGovernor.sol`, `EnglishGovernorUpgradeable.sol`, and `EnglishTimelock.sol`.
+-   README updated to reflect current contract structure (`English.sol`) and deployment on BSC.
+-   Minting function improved to allow batch minting of 10B tokens up to a max supply of 100B.
+-   Raw Markdown formatting in README adjusted for table and document compatibility.
+
+### Fixed
+
+-   ERC-20 burn and burnForMeme functions confirmed working on Mainnet.
+-   Minor issues with allowance and transfer functions corrected.
+-   Resolved formatting issues in README tables for copy-paste consistency.
+
 ## [1.4] – 2025-09-02
 
 ### Added
