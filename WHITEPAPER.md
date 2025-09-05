@@ -59,7 +59,7 @@ $ENGLISH creates a memecoin that’s fun yet sustainable, with community DAO gov
 **Token Name:** ENGLISH  
 **Symbol:** $ENGLISH  
 **Type:** ERC-20 / BEP-20 compatible  
-**Total Supply:** 1,000,000,000,000 (1 Trillion)  
+**Max Supply:** 100,000,000,000 (100 billion)  
 **Decimals:** 18  
 **Networks:** Ethereum, Binance Smart Chain  
 **Utility:**  
