@@ -1,4 +1,4 @@
----# $ENGLISH Memecoin & DAO
+# $ENGLISH Memecoin & DAO
 
 ![ENGLISH Logo](./branding/englishcoin.png)  
 
@@ -24,6 +24,7 @@ $ENGLISH is officially deployed on **BNB Smart Chain (BSC Mainnet)**. The first 
 |-------------------------------|-----------------------------------------------------------------------------|
 | `contracts/`                 | Smart contracts including `English.sol`                                      |
 | `WHITEPAPER.md`              | Full enterprise-grade whitepaper detailing $ENGLISH tokenomics, DAO structure, and roadmap |
+| `BEST_OF_ENGLISH.md`         | Highlights the unique features, meme-driven mechanics, and community benefits of $ENGLISH |
 | `CONTRIBUTING.md`            | Guidelines for contributing to the project                                   |
 | `CODE_OF_CONDUCT.md`         | Community behavior standards and reporting policies                           |
 | `SECURITY.md`                | Security policies, vulnerability reporting, and best practices               |
@@ -46,6 +47,7 @@ $ENGLISH is officially deployed on **BNB Smart Chain (BSC Mainnet)**. The first 
 ## 📚 Resources & Links
 
 - [Read the Whitepaper](./WHITEPAPER.md)  
+- [Best of English Highlights](./BEST_OF_ENGLISH.md)  
 - [Market Analysis](./MARKET_ANALYSIS.md)  
 - [Contributing Guide](./CONTRIBUTING.md)  
 - [Code of Conduct](./CODE_OF_CONDUCT.md)  
